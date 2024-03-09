@@ -1,0 +1,23 @@
+{
+  "name": "chicky-feet",
+  "version": "1.0.0",
+  "description": "Play game chicky feet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chickyjohny/chicky-feet.git"
+  },
+  "dependencies": {
+    "johny-team": "1.0.0",
+    "minti_fulkerson": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chickyjohny/chicky-feet/issues"
+  },
+  "homepage": "https://github.com/chickyjohny/chicky-feet#readme"
+}
