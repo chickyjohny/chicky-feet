@@ -1,6 +1,6 @@
 {
   "name": "chicky-feet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Play game chicky feet",
   "main": "index.js",
   "scripts": {
